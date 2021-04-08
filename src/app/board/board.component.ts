@@ -14,7 +14,7 @@ export class BoardComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit() {
     this.newGame();
   }
 
@@ -25,7 +25,7 @@ export class BoardComponent implements OnInit {
   }
 
   get player() {
-    return this.xIsNext ? 'x' : 'o';
+    return this.xIsNext ? 'X' : 'O';
   }
 
   makeMove(idx: number) {
