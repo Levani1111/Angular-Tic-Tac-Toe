@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-This is a Tic-Tac-Toe game I developed using Angular v 11.2.9  It allows players to compete against each other and the board responds to each players move.
+This is a Tic-Tac-Toe game I developed using Angular. It allows players to compete against each other and the board responds to each players move.
 
 ## Technologies
 * Angular
