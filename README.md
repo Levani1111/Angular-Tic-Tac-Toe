@@ -1,5 +1,18 @@
 # Tic-Tac-Toe
 
+This is a Tic-Tac-Toe game I developed using Angular v 11.2.9  It allows players to compete against each other and the board responds to each players move.
+
+## Technologies
+* Angular
+* Typescript
+* JavaScript
+* HTML
+* Css
+* Nebular: Customizable UI
+
+## deployed on netlify
+https://angularwithtictactoe.netlify.app/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
 
 ## Development server
@@ -25,3 +38,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Author
+Levani Papashvili @2021
