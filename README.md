@@ -2,6 +2,8 @@
 
 This is a Tic-Tac-Toe game I developed using Angular. It allows players to compete against each other and the board responds to each players move.
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
+
 ## Technologies
 * Angular
 * Typescript
@@ -13,7 +15,6 @@ This is a Tic-Tac-Toe game I developed using Angular. It allows players to compe
 ## deployed on netlify
 https://angularwithtictactoe.netlify.app/
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
 
 ## Development server
 
