@@ -1,0 +1,19 @@
+
+h1 {
+    color: #3366ff;
+    text-shadow: -1px 0 rgb(255, 255, 255), 0 1px black, 1px 0 black, 0 -1px rgb(255, 255, 255);
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: 300;
+  }
+  @keyframes example {
+    0%   {color: red;}
+    25%  {color: yellow;}
+    50%  {color: blue;}
+    100% {color: green;}
+    100% {color: rgb(247, 4, 146);}
+    100% {color: rgb(4, 231, 247);}
+    100% {color: rgb(247, 121, 4);}
+    50% {color: rgb(4, 247, 126);}
+    100% {color: rgb(97, 4, 247);}
+  }
